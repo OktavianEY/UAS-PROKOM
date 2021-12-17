@@ -5,3 +5,4 @@ matplotlib
 sklearn
 plotly.express
 plotly
+import plotly.express as px
